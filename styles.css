@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.background-picture{
+    display: flex;
+    justify-content: left;
+}
+body{
+    background-color: purple;
+}
+.gaming-img{
+    height: 900px;
+    width: 900px;
+}
+.black-bar{
+    height: 300px;
+    width: 1000px;
+    background-color: black;
+}
+.form-info{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+.info-box{
+    margin: 20px 20px 20px 20px;
+}
